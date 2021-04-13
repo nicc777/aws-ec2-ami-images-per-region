@@ -1,6 +1,6 @@
 # aws-ec2-ami-images-per-region
 
-My original goal was to get the latest list of Amazon Linux AMI images when [creating a mapping in CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/mappings-section-structure.html).
+My original goal was to get the latest list of ___Amazon Linux AMI images___ when [creating a mapping in CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/mappings-section-structure.html).
 
 At the moment everything is still hard coded - This will eventually get more parameter driven over time. This started as a very quick-and-dirty script to just get the info.
 
