@@ -18,7 +18,7 @@ For now, you will need to edit the Python script and replace the text `__REPLACE
 
 An example run is shown below. The resulting JSON output will be in the file `ec2_ami_images.json`. You should be able to just copy and paste this into your CloudFormation template and use parameters to select the region and architecture.
 
-**_Note_**: Depending on your permissions, your output and/or ability to retrieve images from various regions may differ from the examples shown.
+**_Note_**: Depending on your permissions, your output and/or ability to retrieve images from various regions may differ from the examples shown. Also - the script can take some time to run. In my case it took more than 10 minutes to produce the final JSON file.
 
 ```shell
 $ python3 get_ec2_ami_images.py 
