@@ -1,0 +1,74 @@
+{
+    "us-east-1": {
+        "x86_64": "ami-0742b4e673072066f",
+        "arm64": "ami-015f1226b535bd02d"
+    },
+    "us-east-2": {
+        "x86_64": "ami-05d72852800cbf29e",
+        "arm64": "ami-081c76abbbdaaafc7"
+    },
+    "us-west-1": {
+        "x86_64": "ami-0577b787189839998",
+        "arm64": "ami-0335cec934c21f4a3"
+    },
+    "us-west-2": {
+        "x86_64": "ami-0518bb0e75d3619ca",
+        "arm64": "ami-013400284c3b666b4"
+    },
+    "af-south-1": {
+        "x86_64": "ami-06db08e8636583118",
+        "arm64": "ami-06ac7d574df74905e"
+    },
+    "ap-south-1": {
+        "x86_64": "ami-0bcf5425cdc1d8a85",
+        "arm64": "ami-003025fed2eb22f59"
+    },
+    "ap-northeast-3": {
+        "x86_64": "ami-0b96303a469fa0678",
+        "arm64": "ami-0a3ab603b8e9edb7b"
+    },
+    "ap-northeast-2": {
+        "x86_64": "ami-07464b2b9929898f8",
+        "arm64": "ami-0f5418338416ace0f"
+    },
+    "ap-northeast-1": {
+        "x86_64": "ami-06098fd00463352b6",
+        "arm64": "ami-03888b30ba5826eed"
+    },
+    "ap-southeast-1": {
+        "x86_64": "ami-03ca998611da0fe12",
+        "arm64": "ami-07c49da39d8691810"
+    },
+    "ap-southeast-2": {
+        "x86_64": "ami-06202e06492f46177",
+        "arm64": "ami-0b83b853d3ae3feb4"
+    },
+    "ca-central-1": {
+        "x86_64": "ami-09934b230a2c41883",
+        "arm64": "ami-09c6bc6780b31aa8d"
+    },
+    "eu-central-1": {
+        "x86_64": "ami-0db9040eb3ab74509",
+        "arm64": "ami-0bf22bb1d11a77e09"
+    },
+    "eu-west-1": {
+        "x86_64": "ami-0ffea00000f287d30",
+        "arm64": "ami-00552336fb4b81164"
+    },
+    "eu-west-2": {
+        "x86_64": "ami-0fbec3e0504ee1970",
+        "arm64": "ami-0cd6f122066124f80"
+    },
+    "eu-west-3": {
+        "x86_64": "ami-00dd995cb6f0a5219",
+        "arm64": "ami-0963a97df4f645aa0"
+    },
+    "eu-north-1": {
+        "x86_64": "ami-02baf2b4223a343e8",
+        "arm64": "ami-07cad051b3d589ab2"
+    },
+    "sa-east-1": {
+        "x86_64": "ami-0c27c96aaa148ba6d",
+        "arm64": "ami-057b5abab987af06c"
+    }
+}
